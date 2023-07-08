@@ -1,0 +1,52 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  /* Estilos para la sección de datos de sensores */
+  #datos-sensores {
+    margin-bottom: 30px;
+  }
+  
+  #datos-sensores h2 {
+    font-size: 18px;
+  }
+  
+  #datos-sensores p {
+    font-size: 16px;
+  }
+  
+  /* Estilos para la sección de acciones */
+  #acciones {
+    text-align: center;
+  }
+  
+  #acciones h2 {
+    font-size: 18px;
+  }
+  
+  #acciones button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #af4c4c;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #acciones button:hover {
+    background-color: #45a049;
+  }
+  
+  #acciones button:active {
+    background-color: #3e8e41;
+  }
+  
